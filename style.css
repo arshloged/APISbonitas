@@ -1,0 +1,68 @@
+    body {
+        background-color: black;
+        color: greenyellow;
+        font-family: monospace;
+    }
+
+    h1 {
+        text-align: center;
+        text-decoration: line-through;
+    }
+
+    a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-decoration: none;
+        font-size: 100px;
+        color: aliceblue;
+    }
+
+    div {
+        background-color: rgb(32, 73, 109);
+         width: 400px;
+         border-radius: 10px;
+         margin: 10px;
+         padding: 20px;
+         display: flex;
+         justify-content: center;
+         flex-wrap: wrap;
+         
+         
+    }
+
+    #verDatos {
+        
+           display: flex;
+        background-color: aliceblue;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+        background-color: aliceblue;
+        
+    }
+
+    img {
+        
+        max-width: 200px;
+    }
+
+    table {
+        background-color: black;
+    }
+
+    table th,
+        table td {
+            border: 1px solid white; /* Border for table cells */
+            padding: 8px;
+            text-align: left;
+            color: white; /* White text for readability on black background */
+        }
+        table th {
+            background-color: #333; /* Slightly lighter header background for contrast */
+        }
