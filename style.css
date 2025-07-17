@@ -58,11 +58,11 @@
 
     table th,
         table td {
-            border: 1px solid white; /* Border for table cells */
+            border: 1px solid white; 
             padding: 8px;
             text-align: left;
-            color: white; /* White text for readability on black background */
+            color: white; 
         }
         table th {
-            background-color: #333; /* Slightly lighter header background for contrast */
+            background-color: #333;
         }
