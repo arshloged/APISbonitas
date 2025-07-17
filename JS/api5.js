@@ -1,4 +1,4 @@
-const URL = "http://127.0.0.1:5501/JS/datos.js";
+const URL = "https://mocki.io/v1/7eee7ad2-585f-4e1e-af1a-360d41f8f248";
 
 async function consumirDatos() {
     const ubicacion = document.getElementById("verDatos");
